@@ -1,0 +1,5 @@
+groq
+flask
+beautifulsoup4
+requests
+flask_cors
